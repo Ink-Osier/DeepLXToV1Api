@@ -29,7 +29,7 @@
 
 预期响应：
 
-```json
+```plaintext
 data: {"id": "a0e35ab6-b859-441b-93e6-6391dcb468ed", "object": "chat.completion.chunk", "created": 1709348239.833917, "model": "deeplx-ZH", "choices": [{"index": 0, "delta": {"content": "\u4f60\u597d"}, "finish_reason": null}]}
 
 data: [DONE]
